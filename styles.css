@@ -19,3 +19,12 @@ footer a {
   margin: 0 10px;
   color: brown;
 }
+
+.croissant-photo {
+  max-width: 50%;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  display: block;
+}
